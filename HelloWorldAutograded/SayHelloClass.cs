@@ -10,7 +10,7 @@ namespace Hello
 
         public static String SayHello()
         {
-            return "";
+            return "Hello, World!";
         }
     }
 }
